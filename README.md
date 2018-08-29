@@ -1,8 +1,14 @@
 # discord-crypto-bot
 
+## Installing the prerequisites
+
+```
+sudo apt install python-pip
+pip install pipenv
+```
+
 ## Installing the bot:
 ```
-pip install pipenv
 git clone https://github.com/gluneau/discord-crypto-bot.git
 cd discord-crypto-bot
 pipenv install
